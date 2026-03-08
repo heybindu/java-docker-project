@@ -133,7 +133,7 @@ After unlocking Jenkins:
 3. Create **Admin Username and Password**
 
 ---
-
+jenkin-docker.png
  Create First Jenkins Job
 
 Steps:
